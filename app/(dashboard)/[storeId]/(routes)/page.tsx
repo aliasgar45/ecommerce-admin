@@ -12,7 +12,8 @@ const DashboardPage: React.FC<DashboardPageProps> = async ({
         where: {
             id: params.storeId
         }
-    })
+    });
+    
   return (
     <div>
         Active Store: {store?.name};
