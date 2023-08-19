@@ -15,17 +15,17 @@ export function MainNav({
         {
             href: `/${params.storeId}`,
             label: 'Overview',
-            active: pathname ===   `/${params.store}`,
+            active: pathname ===   `/${params.storeId}`,
         },
         {
             href: `/${params.storeId}/billboards`,
             label: 'Billboards',
-            active: pathname ===   `/${params.store}/billboards`,
+            active: pathname ===`/${params.storeId}/billboards`,
         },
         {
             href: `/${params.storeId}/settings`,
             label: 'Settings',
-            active: pathname ===   `/${params.store}/settings`,
+            active: pathname ===   `/${params.storeId}/settings`,
         }
     ];
     return (
