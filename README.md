@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screenshot 2023-09-06 171527](https://github.com/aliasgar45/ecommerce-admin/assets/91747704/7a1dacd4-3177-411e-819d-699dd197a176)
 
 ## Getting Started
 
